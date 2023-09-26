@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Sie Michelle</h1>
-<h3 align="center">A passionate full-stack software engineer with an interest in cloud and cybersecurity.</h3>
+<h3 align="center">A passionate aspiring Security Analyst with an interest in cloud and DevSecOps</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siedoestech&label=Profile%20views&color=0e75b6&style=flat" alt="siedoestech" /> </p>
 
@@ -9,15 +9,15 @@
 
 <p align="left"> <a href="https://twitter.com/siedoestech" target="blank"><img src="https://img.shields.io/twitter/follow/siedoestech?logo=twitter&style=for-the-badge" alt="siedoestech" /></a> </p>
 
-- 🌱 I’m currently learning **JQuery and Node.JS**
+- 🌱 I’m currently learning **to do security audits and using SIEM tools**
 
-- 👯 I’m looking to collaborate on **opensource projects**
+- 👯 I’m looking to collaborate on **opensource projects, labbing and more**
 
-- 📝 I regularly write articles on [www.siedoestech.com](www.siedoestech.com)
+- 📝 I will soon be writing regularly articles on [www.siedoestech.com](www.siedoestech.com)
 
 - 📫 How to reach me **sieodestech@gmail.com**
 
-- ⚡ Fun fact **I love comic books, anime and superhero movies. I dabble in cosplay.**
+- ⚡ Fun fact **I enjoy crocheting and ethically hacking. I love comic books, anime and superhero movies. I dabble in cosplay.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
