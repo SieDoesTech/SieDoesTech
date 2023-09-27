@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Sie Michelle</h1>
-<h3 align="center">A passionate aspiring Security Analyst with an interest in cloud and DevSecOps</h3>
+<h1 align="center">Hi 👋, I'm Sierra</h1>
+<h3 align="center">I am currently completing my last few courses for my Bachelor's in General Studies with a Minor in Cybersecurtiy. I am passionate about learning how to assist companies with securing their network. I enjoy ethical hacking and building web applications as a pastime. Aspiring to be a Security Analyst with an interest in cloud and DevSecOps</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siedoestech&label=Profile%20views&color=0e75b6&style=flat" alt="siedoestech" /> </p>
 
